@@ -25,19 +25,19 @@ AWS:
 
 Security:
   Site-to-Site VPN Connections:
-	  Build IKEv2 VPN tunnels and extend the tunnels to the third-party vendors.
+    Build IKEv2 VPN tunnels and extend the tunnels to the third-party vendors.
   Security Groups:
-	Control access.
+    Control access.
   Network ACLs:
-	Block unwanted access.
+    Block unwanted access.
   Certificate Manager:
-	Apply TLS on web app and CloudFront.
+    Apply TLS on web app and CloudFront.
   IAM:
-	Customize roles and policies
+    Customize roles and policies
   Trusted Advisor:
-	Enforce best security practice.
+    Enforce best security practice.
   CloudTrail:
-	Audit API calls.
+    Audit API calls.
 
 Cost:
   Billing:
@@ -48,31 +48,31 @@ Cost:
 
 Performance:
   CloudFront:
-	  Improve content delivery experience.
+    Improve content delivery experience.
   Lambda:
-	  Support Lambda functions.
+    Support Lambda functions.
   Route 53:
-	  Hosted zones migration from other vendors.
+    Hosted zones migration from other vendors.
   EC2:
-	  Use ALB to control the traffic flow.
+    Use ALB to control the traffic flow.
   ECR:
-	  Bitbucket to ECR
+    Bitbucket to ECR
   ECS:
-	  Manage ECS
+    Manage ECS
   RDS:
-	  Manage backup and restore.
+    Manage backup and restore.
   Systems Manager:
-	  Automate EC2 patching.
+    Automate EC2 patching.
   SNS:
-	  Manage and monitor SMS.
+    Manage and monitor SMS.
   CloudFormation:
-	  Spin up a test environment with S3 bucket, EC2 server and RDS instances.
+    Spin up a test environment with S3 bucket, EC2 server and RDS instances.
   CloudWatch:
-	  Monitor AWS resources and use CloudWatch agent to create custom metrics.
+    Monitor AWS resources and use CloudWatch agent to create custom metrics.
   Support:
-	  Troubleshoot with support.
+    Troubleshoot with support.
   AWS Organization:
-	  Use service control policy
+    Use service control policy.
   
 Alibaba Cloud
   Services:
