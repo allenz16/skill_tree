@@ -33,7 +33,7 @@ Security:
   Certificate Manager:
     Apply TLS on web app and CloudFront.
   IAM:
-    Customize roles and policies
+    Customize roles and policies.
   Trusted Advisor:
     Enforce best security practice.
   CloudTrail:
@@ -56,9 +56,9 @@ Performance:
   EC2:
     Use ALB to control the traffic flow.
   ECR:
-    Bitbucket to ECR
+    Bitbucket to ECR.
   ECS:
-    Manage ECS
+    Manage ECS.
   RDS:
     Manage backup and restore.
   Systems Manager:
