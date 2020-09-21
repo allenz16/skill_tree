@@ -37,7 +37,7 @@ Security:
   Trusted Advisor:
     Enforce best security practice.
   CloudTrail:
-    Audit API calls.
+    Audit event history.
 
 Cost:
   Billing:
