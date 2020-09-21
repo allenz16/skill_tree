@@ -1,0 +1,79 @@
+AWS:
+	Services:
+    VPC
+    EC2
+    RDS
+    IAM
+    S3
+    CloudFront
+    Route 53
+    Systems Manager
+    ECS
+    ECR
+    ElastiCache
+    SNS
+    Lambda
+    DynamoDB
+    Lightsail
+    Certificate Manager
+    AWS Organizations
+    Billing
+    Trusted Advisor
+    GuardDuty
+    CloudTrail
+    CloudFormation
+
+Security:
+  Site-to-Site VPN Connections:
+	  Build IKEv2 VPN tunnels and extend the tunnels to the third-party vendors.
+  Security Groups:
+	Control access.
+  Network ACLs:
+	Block unwanted access.
+  Certificate Manager:
+	Apply TLS on web app and CloudFront.
+  IAM:
+	Customize roles and policies
+  Trusted Advisor:
+	Enforce best security practice.
+  CloudTrail:
+	Audit API calls.
+
+Cost:
+  Billing:
+    RI
+    Savings Plans
+    Cost Explorer
+    Usage Report
+
+Performance:
+  CloudFront:
+	  Improve content delivery experience.
+  Lambda:
+	  Support Lambda functions.
+  Route 53:
+	  Hosted zones migration from other vendors.
+  EC2:
+	  Use ALB to control the traffic flow.
+  ECR:
+	  Bitbucket to ECR
+  ECS:
+	  Manage ECS
+  RDS:
+	  Manage backup and restore.
+  Systems Manager:
+	  Automate EC2 patching.
+  SNS:
+	  Manage and monitor SMS.
+  CloudFormation:
+	  Spin up a test environment with S3 bucket, EC2 server and RDS instances.
+  CloudWatch:
+	  Monitor AWS resources and use CloudWatch agent to create custom metrics.
+  Support:
+	  Troubleshoot with support.
+  AWS Organization:
+	  Use service control policy
+  
+Alibaba Cloud
+  Services:
+    Cloud Enterprise Network
