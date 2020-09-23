@@ -78,4 +78,5 @@ Performance:
   
 Alibaba Cloud
   Services:
-    Cloud Enterprise Network
+    Cloud Enterprise Network:
+      Build private tunnels between China and AWS ap-southeast-2 as well as vendor datacenters.
