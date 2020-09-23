@@ -75,6 +75,8 @@ Performance:
     Use service control policy.
   AWS Resource Groups:
     Tag resources and manage them in groups.
+  S3:
+    Static web hosting, manage objects, control bucket policy.
   
 Alibaba Cloud
   Services:
