@@ -52,7 +52,7 @@ Performance:
   Lambda:
     Support Lambda functions.
   Route 53:
-    Hosted zones migration from other vendors.
+    Hosted zones migration from other vendors and manage domain records.
   EC2:
     Use ALB to control the traffic flow.
   ECR:
